@@ -78,7 +78,7 @@ const Sidebar = () => {
       <div className="p-6">
         <div className="flex items-center gap-2">
           <UtensilsCrossed className="h-8 w-8 text-primary" />
-          <h1 className="text-xl font-bold">Restaurant Admin</h1>
+          <h1 className="text-xl font-bold">Cheftab Admin</h1>
         </div>
       </div>
 
